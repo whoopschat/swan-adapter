@@ -1,2 +1,2 @@
 # swan-adapter
-swan game adapter
+> Adapter for Swan Game
